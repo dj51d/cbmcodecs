@@ -21,7 +21,7 @@ setup(
     install_requires=[],
     classifiers=[
         'Development Status :: 4 - Beta',
-        'Intended Audiance :: Developers',
+        'Intended Audience :: Developers',
         'License :: OSI Approved :: GNU General Public License v2 (GPLv2)',
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
