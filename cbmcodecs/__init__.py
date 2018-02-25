@@ -19,7 +19,7 @@ from . import petscii_c64en_uc
 from . import petscii_vic20en_lc
 from . import petscii_vic20en_uc
 
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 __all__ = []
 
 petscii_codecs = {
