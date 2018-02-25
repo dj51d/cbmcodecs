@@ -67,7 +67,8 @@ full text.
 Unicode symbols used
 ====================
 Aside from the regular alphanumerics and symbols, the unicode mapping uses the
-following unicode block drawing and other symbols to mimic many PETSCII characters:
+following unicode block drawing and other symbols to mimic a bunch of PETSCII characters:
 
-@todo
-
+£ π ✓ ← ↑ ─ │ ┌ ┐ └ ┘ ├ ┤ ┬ ┴ ┼ ╭ ╮ ╯ ╰
+╱ ╲ ╳ ▁ ▂ ▃ ▄ ▌ ▍ ▎ ▏ ▒ ▔ ▕ ▖ ▗ ▘ ▚ ▝
+○ ● ◤ ◥ ♠ ♣ ♥ ♦
