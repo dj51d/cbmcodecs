@@ -153,7 +153,7 @@ decoding_table = (
     '\u25e4'    #  0x69 -> BLACK UPPER LEFT TRIANGLE
     '\uf130'    #  0x6A -> RIGHT ONE QUARTER BLOCK (CUS)
     '\u251c'    #  0x6B -> BOX DRAWINGS LIGHT VERTICAL AND RIGHT
-    '\uf134'    #  0x6C -> BLACK SMALL SQUARE LOWER RIGHT (CUS)
+    '\u2597'    #  0x6C -> QUADRANT LOWER RIGHT
     '\u2514'    #  0x6D -> BOX DRAWINGS LIGHT UP AND RIGHT
     '\u2510'    #  0x6E -> BOX DRAWINGS LIGHT DOWN AND LEFT
     '\u2582'    #  0x6F -> LOWER ONE QUARTER BLOCK
@@ -168,11 +168,11 @@ decoding_table = (
     '\uf133'    #  0x78 -> UPPER THREE EIGHTS BLOCK (CUS)
     '\u2583'    #  0x79 -> LOWER THREE EIGHTHS BLOCK
     '\uf12d'    #  0x7A -> ONE EIGHTH BLOCK UP AND LEFT (CUS)
-    '\uf135'    #  0x7B -> BLACK SMALL SQUARE LOWER LEFT (CUS)
-    '\uf136'    #  0x7C -> BLACK SMALL SQUARE UPPER RIGHT (CUS)
+    '\u2596'    #  0x7B -> QUADRANT LOWER LEFT
+    '\u259d'    #  0x7C -> QUADRANT UPPER RIGHT
     '\u2518'    #  0x7D -> BOX DRAWINGS LIGHT UP AND LEFT
-    '\uf137'    #  0x7E -> BLACK SMALL SQUARE UPPER LEFT (CUS)
-    '\uf138'    #  0x7F -> TWO SMALL BLACK SQUARES DIAGONAL LEFT TO RIGHT (CUS)
+    '\u2598'    #  0x7E -> QUADRANT UPPER LEFT
+    '\u259a'    #  0x7F -> QUADRANT UPPER LEFT AND LOWER RIGHT
     '\ufffe'    #  0x80 -> UNDEFINED
     '\ufffe'    #  0x81 -> UNDEFINED
     '\ufffe'    #  0x82 -> UNDEFINED
