@@ -24,9 +24,9 @@ class TestC64Codecs(unittest.TestCase):
 
     def test_screencodes_lowercase(self):
         codec = "screencode-c64-lc"
-        self.assertEqual(b"", "hello WORLD 123 @!£".encode(codec))
-        self.assertEqual(b"", "♥".encode(codec))
-        self.assertEqual(b"", "✓".encode(codec))
+        self.assertEqual(b"\x08\x05\x0c\x0c\x0f\x20\x57\x4f\x52\x4c\x44\x20\x31\x32\x33\x20\x00\x21\x1c",
+                         "hello WORLD 123 @!£".encode(codec))
+        self.assertEqual(b"\x7a", "✓".encode(codec))
         with self.assertRaises(UnicodeEncodeError):
             "♥".encode(codec)
         with self.assertRaises(UnicodeEncodeError):
@@ -34,8 +34,8 @@ class TestC64Codecs(unittest.TestCase):
 
     def test_screencodes_uppercase(self):
         codec = "screencode-c64-uc"
-        self.assertEqual(b"", "WORLD 123 @!£".encode(codec))
-        self.assertEqual(b"\x5e", "♥".encode(codec))
+        self.assertEqual(b"\x17\x0f\x12\x0c\x04\x20\x31\x32\x33\x20\x00\x21\x1c", "WORLD 123 @!£".encode(codec))
+        self.assertEqual(b"\x53", "♥".encode(codec))
         self.assertEqual(b"\x5e", "π".encode(codec))
         with self.assertRaises(UnicodeEncodeError):
             "✓".encode(codec)

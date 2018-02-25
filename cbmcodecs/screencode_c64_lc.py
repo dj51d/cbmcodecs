@@ -77,230 +77,230 @@ decoding_table = (
     ']'         #  0x1D -> RIGHT SQUARE BRACKET
     '\u2191'    #  0x1E -> UPWARDS ARROW
     '\u2190'    #  0x1F -> LEFTWARDS ARROW
-    '@'         #  0x20 -> COMMERCIAL AT
-    '@'         #  0x21 -> COMMERCIAL AT
-    '@'         #  0x22 -> COMMERCIAL AT
-    '@'         #  0x23 -> COMMERCIAL AT
-    '@'         #  0x24 -> COMMERCIAL AT
-    '@'         #  0x25 -> COMMERCIAL AT
-    '@'         #  0x26 -> COMMERCIAL AT
-    '@'         #  0x27 -> COMMERCIAL AT
-    '@'         #  0x28 -> COMMERCIAL AT
-    '@'         #  0x29 -> COMMERCIAL AT
-    '@'         #  0x2A -> COMMERCIAL AT
-    '@'         #  0x2B -> COMMERCIAL AT
-    '@'         #  0x2C -> COMMERCIAL AT
-    '@'         #  0x2D -> COMMERCIAL AT
-    '@'         #  0x2E -> COMMERCIAL AT
-    '@'         #  0x2F -> COMMERCIAL AT
-    '@'         #  0x30 -> COMMERCIAL AT
-    '@'         #  0x31 -> COMMERCIAL AT
-    '@'         #  0x32 -> COMMERCIAL AT
-    '@'         #  0x33 -> COMMERCIAL AT
-    '@'         #  0x34 -> COMMERCIAL AT
-    '@'         #  0x35 -> COMMERCIAL AT
-    '@'         #  0x36 -> COMMERCIAL AT
-    '@'         #  0x37 -> COMMERCIAL AT
-    '@'         #  0x38 -> COMMERCIAL AT
-    '@'         #  0x39 -> COMMERCIAL AT
-    '@'         #  0x3A -> COMMERCIAL AT
-    '@'         #  0x3B -> COMMERCIAL AT
-    '@'         #  0x3C -> COMMERCIAL AT
-    '@'         #  0x3D -> COMMERCIAL AT
-    '@'         #  0x3E -> COMMERCIAL AT
-    '@'         #  0x3F -> COMMERCIAL AT
-    '@'         #  0x40 -> COMMERCIAL AT
-    '@'         #  0x41 -> COMMERCIAL AT
-    '@'         #  0x42 -> COMMERCIAL AT
-    '@'         #  0x43 -> COMMERCIAL AT
-    '@'         #  0x44 -> COMMERCIAL AT
-    '@'         #  0x45 -> COMMERCIAL AT
-    '@'         #  0x46 -> COMMERCIAL AT
-    '@'         #  0x47 -> COMMERCIAL AT
-    '@'         #  0x48 -> COMMERCIAL AT
-    '@'         #  0x49 -> COMMERCIAL AT
-    '@'         #  0x4A -> COMMERCIAL AT
-    '@'         #  0x4B -> COMMERCIAL AT
-    '@'         #  0x4C -> COMMERCIAL AT
-    '@'         #  0x4D -> COMMERCIAL AT
-    '@'         #  0x4E -> COMMERCIAL AT
-    '@'         #  0x4F -> COMMERCIAL AT
-    '@'         #  0x50 -> COMMERCIAL AT
-    '@'         #  0x51 -> COMMERCIAL AT
-    '@'         #  0x52 -> COMMERCIAL AT
-    '@'         #  0x53 -> COMMERCIAL AT
-    '@'         #  0x54 -> COMMERCIAL AT
-    '@'         #  0x55 -> COMMERCIAL AT
-    '@'         #  0x56 -> COMMERCIAL AT
-    '@'         #  0x57 -> COMMERCIAL AT
-    '@'         #  0x58 -> COMMERCIAL AT
-    '@'         #  0x59 -> COMMERCIAL AT
-    '@'         #  0x5A -> COMMERCIAL AT
-    '@'         #  0x5B -> COMMERCIAL AT
-    '@'         #  0x5C -> COMMERCIAL AT
-    '@'         #  0x5D -> COMMERCIAL AT
-    '@'         #  0x5E -> COMMERCIAL AT
-    '@'         #  0x5F -> COMMERCIAL AT
-    '@'         #  0x60 -> COMMERCIAL AT
-    '@'         #  0x61 -> COMMERCIAL AT
-    '@'         #  0x62 -> COMMERCIAL AT
-    '@'         #  0x63 -> COMMERCIAL AT
-    '@'         #  0x64 -> COMMERCIAL AT
-    '@'         #  0x65 -> COMMERCIAL AT
-    '@'         #  0x66 -> COMMERCIAL AT
-    '@'         #  0x67 -> COMMERCIAL AT
-    '@'         #  0x68 -> COMMERCIAL AT
-    '@'         #  0x69 -> COMMERCIAL AT
-    '@'         #  0x6A -> COMMERCIAL AT
-    '@'         #  0x6B -> COMMERCIAL AT
-    '@'         #  0x6C -> COMMERCIAL AT
-    '@'         #  0x6D -> COMMERCIAL AT
-    '@'         #  0x6E -> COMMERCIAL AT
-    '@'         #  0x6F -> COMMERCIAL AT
-    '@'         #  0x70 -> COMMERCIAL AT
-    '@'         #  0x71 -> COMMERCIAL AT
-    '@'         #  0x72 -> COMMERCIAL AT
-    '@'         #  0x73 -> COMMERCIAL AT
-    '@'         #  0x74 -> COMMERCIAL AT
-    '@'         #  0x75 -> COMMERCIAL AT
-    '@'         #  0x76 -> COMMERCIAL AT
-    '@'         #  0x77 -> COMMERCIAL AT
-    '@'         #  0x78 -> COMMERCIAL AT
-    '@'         #  0x79 -> COMMERCIAL AT
-    '@'         #  0x7A -> COMMERCIAL AT
-    '@'         #  0x7B -> COMMERCIAL AT
-    '@'         #  0x7C -> COMMERCIAL AT
-    '@'         #  0x7D -> COMMERCIAL AT
-    '@'         #  0x7E -> COMMERCIAL AT
-    '@'         #  0x7F -> COMMERCIAL AT
-    '@'         #  0x80 -> COMMERCIAL AT
-    '@'         #  0x81 -> COMMERCIAL AT
-    '@'         #  0x82 -> COMMERCIAL AT
-    '@'         #  0x83 -> COMMERCIAL AT
-    '@'         #  0x84 -> COMMERCIAL AT
-    '@'         #  0x85 -> COMMERCIAL AT
-    '@'         #  0x86 -> COMMERCIAL AT
-    '@'         #  0x87 -> COMMERCIAL AT
-    '@'         #  0x88 -> COMMERCIAL AT
-    '@'         #  0x89 -> COMMERCIAL AT
-    '@'         #  0x8A -> COMMERCIAL AT
-    '@'         #  0x8B -> COMMERCIAL AT
-    '@'         #  0x8C -> COMMERCIAL AT
-    '@'         #  0x8D -> COMMERCIAL AT
-    '@'         #  0x8E -> COMMERCIAL AT
-    '@'         #  0x8F -> COMMERCIAL AT
-    '@'         #  0x90 -> COMMERCIAL AT
-    '@'         #  0x91 -> COMMERCIAL AT
-    '@'         #  0x92 -> COMMERCIAL AT
-    '@'         #  0x93 -> COMMERCIAL AT
-    '@'         #  0x94 -> COMMERCIAL AT
-    '@'         #  0x95 -> COMMERCIAL AT
-    '@'         #  0x96 -> COMMERCIAL AT
-    '@'         #  0x97 -> COMMERCIAL AT
-    '@'         #  0x98 -> COMMERCIAL AT
-    '@'         #  0x99 -> COMMERCIAL AT
-    '@'         #  0x9A -> COMMERCIAL AT
-    '@'         #  0x9B -> COMMERCIAL AT
-    '@'         #  0x9C -> COMMERCIAL AT
-    '@'         #  0x9D -> COMMERCIAL AT
-    '@'         #  0x9E -> COMMERCIAL AT
-    '@'         #  0x9F -> COMMERCIAL AT
-    '@'         #  0xA0 -> COMMERCIAL AT
-    '@'         #  0xA1 -> COMMERCIAL AT
-    '@'         #  0xA2 -> COMMERCIAL AT
-    '@'         #  0xA3 -> COMMERCIAL AT
-    '@'         #  0xA4 -> COMMERCIAL AT
-    '@'         #  0xA5 -> COMMERCIAL AT
-    '@'         #  0xA6 -> COMMERCIAL AT
-    '@'         #  0xA7 -> COMMERCIAL AT
-    '@'         #  0xA8 -> COMMERCIAL AT
-    '@'         #  0xA9 -> COMMERCIAL AT
-    '@'         #  0xAA -> COMMERCIAL AT
-    '@'         #  0xAB -> COMMERCIAL AT
-    '@'         #  0xAC -> COMMERCIAL AT
-    '@'         #  0xAD -> COMMERCIAL AT
-    '@'         #  0xAE -> COMMERCIAL AT
-    '@'         #  0xAF -> COMMERCIAL AT
-    '@'         #  0xB0 -> COMMERCIAL AT
-    '@'         #  0xB1 -> COMMERCIAL AT
-    '@'         #  0xB2 -> COMMERCIAL AT
-    '@'         #  0xB3 -> COMMERCIAL AT
-    '@'         #  0xB4 -> COMMERCIAL AT
-    '@'         #  0xB5 -> COMMERCIAL AT
-    '@'         #  0xB6 -> COMMERCIAL AT
-    '@'         #  0xB7 -> COMMERCIAL AT
-    '@'         #  0xB8 -> COMMERCIAL AT
-    '@'         #  0xB9 -> COMMERCIAL AT
-    '@'         #  0xBA -> COMMERCIAL AT
-    '@'         #  0xBB -> COMMERCIAL AT
-    '@'         #  0xBC -> COMMERCIAL AT
-    '@'         #  0xBD -> COMMERCIAL AT
-    '@'         #  0xBE -> COMMERCIAL AT
-    '@'         #  0xBF -> COMMERCIAL AT
-    '@'         #  0xC0 -> COMMERCIAL AT
-    '@'         #  0xC1 -> COMMERCIAL AT
-    '@'         #  0xC2 -> COMMERCIAL AT
-    '@'         #  0xC3 -> COMMERCIAL AT
-    '@'         #  0xC4 -> COMMERCIAL AT
-    '@'         #  0xC5 -> COMMERCIAL AT
-    '@'         #  0xC6 -> COMMERCIAL AT
-    '@'         #  0xC7 -> COMMERCIAL AT
-    '@'         #  0xC8 -> COMMERCIAL AT
-    '@'         #  0xC9 -> COMMERCIAL AT
-    '@'         #  0xCA -> COMMERCIAL AT
-    '@'         #  0xCB -> COMMERCIAL AT
-    '@'         #  0xCC -> COMMERCIAL AT
-    '@'         #  0xCD -> COMMERCIAL AT
-    '@'         #  0xCE -> COMMERCIAL AT
-    '@'         #  0xCF -> COMMERCIAL AT
-    '@'         #  0xD0 -> COMMERCIAL AT
-    '@'         #  0xD1 -> COMMERCIAL AT
-    '@'         #  0xD2 -> COMMERCIAL AT
-    '@'         #  0xD3 -> COMMERCIAL AT
-    '@'         #  0xD4 -> COMMERCIAL AT
-    '@'         #  0xD5 -> COMMERCIAL AT
-    '@'         #  0xD6 -> COMMERCIAL AT
-    '@'         #  0xD7 -> COMMERCIAL AT
-    '@'         #  0xD8 -> COMMERCIAL AT
-    '@'         #  0xD9 -> COMMERCIAL AT
-    '@'         #  0xDA -> COMMERCIAL AT
-    '@'         #  0xDB -> COMMERCIAL AT
-    '@'         #  0xDC -> COMMERCIAL AT
-    '@'         #  0xDD -> COMMERCIAL AT
-    '@'         #  0xDE -> COMMERCIAL AT
-    '@'         #  0xDF -> COMMERCIAL AT
-    '@'         #  0xE0 -> COMMERCIAL AT
-    '@'         #  0xE1 -> COMMERCIAL AT
-    '@'         #  0xE2 -> COMMERCIAL AT
-    '@'         #  0xE3 -> COMMERCIAL AT
-    '@'         #  0xE4 -> COMMERCIAL AT
-    '@'         #  0xE5 -> COMMERCIAL AT
-    '@'         #  0xE6 -> COMMERCIAL AT
-    '@'         #  0xE7 -> COMMERCIAL AT
-    '@'         #  0xE8 -> COMMERCIAL AT
-    '@'         #  0xE9 -> COMMERCIAL AT
-    '@'         #  0xEA -> COMMERCIAL AT
-    '@'         #  0xEB -> COMMERCIAL AT
-    '@'         #  0xEC -> COMMERCIAL AT
-    '@'         #  0xED -> COMMERCIAL AT
-    '@'         #  0xEE -> COMMERCIAL AT
-    '@'         #  0xEF -> COMMERCIAL AT
-    '@'         #  0xF0 -> COMMERCIAL AT
-    '@'         #  0xF1 -> COMMERCIAL AT
-    '@'         #  0xF2 -> COMMERCIAL AT
-    '@'         #  0xF3 -> COMMERCIAL AT
-    '@'         #  0xF4 -> COMMERCIAL AT
-    '@'         #  0xF5 -> COMMERCIAL AT
-    '@'         #  0xF6 -> COMMERCIAL AT
-    '@'         #  0xF7 -> COMMERCIAL AT
-    '@'         #  0xF8 -> COMMERCIAL AT
-    '@'         #  0xF9 -> COMMERCIAL AT
-    '@'         #  0xFA -> COMMERCIAL AT
-    '@'         #  0xFB -> COMMERCIAL AT
-    '@'         #  0xFC -> COMMERCIAL AT
-    '@'         #  0xFD -> COMMERCIAL AT
-    '@'         #  0xFE -> COMMERCIAL AT
-    '@'         #  0xFF -> COMMERCIAL AT
+    ' '         #  0x20 -> SPACE
+    '!'         #  0x21 -> EXCLAMATION MARK
+    '"'         #  0x22 -> QUOTATION MARK
+    '#'         #  0x23 -> NUMBER SIGN
+    '$'         #  0x24 -> DOLLAR SIGN
+    '%'         #  0x25 -> PERCENT SIGN
+    '&'         #  0x26 -> AMPERSAND
+    "'"         #  0x27 -> APOSTROPHE
+    '('         #  0x28 -> LEFT PARENTHESIS
+    ')'         #  0x29 -> RIGHT PARENTHESIS
+    '*'         #  0x2A -> ASTERISK
+    '+'         #  0x2B -> PLUS SIGN
+    ','         #  0x2C -> COMMA
+    '-'         #  0x2D -> HYPHEN-MINUS
+    '.'         #  0x2E -> FULL STOP
+    '/'         #  0x2F -> SOLIDUS
+    '0'         #  0x30 -> DIGIT ZERO
+    '1'         #  0x31 -> DIGIT ONE
+    '2'         #  0x32 -> DIGIT TWO
+    '3'         #  0x33 -> DIGIT THREE
+    '4'         #  0x34 -> DIGIT FOUR
+    '5'         #  0x35 -> DIGIT FIVE
+    '6'         #  0x36 -> DIGIT SIX
+    '7'         #  0x37 -> DIGIT SEVEN
+    '8'         #  0x38 -> DIGIT EIGHT
+    '9'         #  0x39 -> DIGIT NINE
+    ':'         #  0x3A -> COLON
+    ';'         #  0x3B -> SEMICOLON
+    '<'         #  0x3C -> LESS-THAN SIGN
+    '='         #  0x3D -> EQUALS SIGN
+    '>'         #  0x3E -> GREATER-THAN SIGN
+    '?'         #  0x3F -> QUESTION MARK
+    '\u2500'    #  0x40 -> BOX DRAWINGS LIGHT HORIZONTAL
+    'A'         #  0x41 -> LATIN CAPITAL LETTER A
+    'B'         #  0x42 -> LATIN CAPITAL LETTER B
+    'C'         #  0x43 -> LATIN CAPITAL LETTER C
+    'D'         #  0x44 -> LATIN CAPITAL LETTER D
+    'E'         #  0x45 -> LATIN CAPITAL LETTER E
+    'F'         #  0x46 -> LATIN CAPITAL LETTER F
+    'G'         #  0x47 -> LATIN CAPITAL LETTER G
+    'H'         #  0x48 -> LATIN CAPITAL LETTER H
+    'I'         #  0x49 -> LATIN CAPITAL LETTER I
+    'J'         #  0x4A -> LATIN CAPITAL LETTER J
+    'K'         #  0x4B -> LATIN CAPITAL LETTER K
+    'L'         #  0x4C -> LATIN CAPITAL LETTER L
+    'M'         #  0x4D -> LATIN CAPITAL LETTER M
+    'N'         #  0x4E -> LATIN CAPITAL LETTER N
+    'O'         #  0x4F -> LATIN CAPITAL LETTER O
+    'P'         #  0x50 -> LATIN CAPITAL LETTER P
+    'Q'         #  0x51 -> LATIN CAPITAL LETTER Q
+    'R'         #  0x52 -> LATIN CAPITAL LETTER R
+    'S'         #  0x53 -> LATIN CAPITAL LETTER S
+    'T'         #  0x54 -> LATIN CAPITAL LETTER T
+    'U'         #  0x55 -> LATIN CAPITAL LETTER U
+    'V'         #  0x56 -> LATIN CAPITAL LETTER V
+    'W'         #  0x57 -> LATIN CAPITAL LETTER W
+    'X'         #  0x58 -> LATIN CAPITAL LETTER X
+    'Y'         #  0x59 -> LATIN CAPITAL LETTER Y
+    'Z'         #  0x5A -> LATIN CAPITAL LETTER Z
+    '\u253c'    #  0x5B -> BOX DRAWINGS LIGHT VERTICAL AND HORIZONTAL
+    '\uf12e'    #  0x5C -> LEFT HALF BLOCK MEDIUM SHADE (CUS)
+    '\u2502'    #  0x5D -> BOX DRAWINGS LIGHT VERTICAL
+    '\u2592'    #  0x5E -> MEDIUM SHADE
+    '\uf139'    #  0x5F -> MEDIUM SHADE SLASHED LEFT (CUS)
+    '\xa0'      #  0x60 -> NO-BREAK SPACE
+    '\u258c'    #  0x61 -> LEFT HALF BLOCK
+    '\u2584'    #  0x62 -> LOWER HALF BLOCK
+    '\u2594'    #  0x63 -> UPPER ONE EIGHTH BLOCK
+    '\u2581'    #  0x64 -> LOWER ONE EIGHTH BLOCK
+    '\u258f'    #  0x65 -> LEFT ONE EIGHTH BLOCK
+    '\u2592'    #  0x66 -> MEDIUM SHADE
+    '\u2595'    #  0x67 -> RIGHT ONE EIGHTH BLOCK
+    '\uf12f'    #  0x68 -> LOWER HALF BLOCK MEDIUM SHADE (CUS)
+    '\uf13a'    #  0x69 -> MEDIUM SHADE SLASHED RIGHT (CUS)
+    '\uf130'    #  0x6A -> RIGHT ONE QUARTER BLOCK (CUS)
+    '\u251c'    #  0x6B -> BOX DRAWINGS LIGHT VERTICAL AND RIGHT
+    '\uf134'    #  0x6C -> BLACK SMALL SQUARE LOWER RIGHT (CUS)
+    '\u2514'    #  0x6D -> BOX DRAWINGS LIGHT UP AND RIGHT
+    '\u2510'    #  0x6E -> BOX DRAWINGS LIGHT DOWN AND LEFT
+    '\u2582'    #  0x6F -> LOWER ONE QUARTER BLOCK
+    '\u250c'    #  0x70 -> BOX DRAWINGS LIGHT DOWN AND RIGHT
+    '\u2534'    #  0x71 -> BOX DRAWINGS LIGHT UP AND HORIZONTAL
+    '\u252c'    #  0x72 -> BOX DRAWINGS LIGHT DOWN AND HORIZONTAL
+    '\u2524'    #  0x73 -> BOX DRAWINGS LIGHT VERTICAL AND LEFT
+    '\u258e'    #  0x74 -> LEFT ONE QUARTER BLOCK
+    '\u258d'    #  0x75 -> LEFT THREE EIGTHS BLOCK
+    '\uf131'    #  0x76 -> RIGHT THREE EIGHTHS BLOCK (CUS)
+    '\uf132'    #  0x77 -> UPPER ONE QUARTER BLOCK (CUS)
+    '\uf133'    #  0x78 -> UPPER THREE EIGHTS BLOCK (CUS)
+    '\u2583'    #  0x79 -> LOWER THREE EIGHTHS BLOCK
+    '\u2713'    #  0x7A -> CHECK MARK
+    '\uf135'    #  0x7B -> BLACK SMALL SQUARE LOWER LEFT (CUS)
+    '\uf136'    #  0x7C -> BLACK SMALL SQUARE UPPER RIGHT (CUS)
+    '\u2518'    #  0x7D -> BOX DRAWINGS LIGHT UP AND LEFT
+    '\uf137'    #  0x7E -> BLACK SMALL SQUARE UPPER LEFT (CUS)
+    '\uf138'    #  0x7F -> TWO SMALL BLACK SQUARES DIAGONAL LEFT TO RIGHT (CUS)
+    '\ufffe'    #  0x80 -> UNDEFINED
+    '\ufffe'    #  0x81 -> UNDEFINED
+    '\ufffe'    #  0x82 -> UNDEFINED
+    '\ufffe'    #  0x83 -> UNDEFINED
+    '\ufffe'    #  0x84 -> UNDEFINED
+    '\ufffe'    #  0x85 -> UNDEFINED
+    '\ufffe'    #  0x86 -> UNDEFINED
+    '\ufffe'    #  0x87 -> UNDEFINED
+    '\ufffe'    #  0x88 -> UNDEFINED
+    '\ufffe'    #  0x89 -> UNDEFINED
+    '\ufffe'    #  0x8A -> UNDEFINED
+    '\ufffe'    #  0x8B -> UNDEFINED
+    '\ufffe'    #  0x8C -> UNDEFINED
+    '\ufffe'    #  0x8D -> UNDEFINED
+    '\ufffe'    #  0x8E -> UNDEFINED
+    '\ufffe'    #  0x8F -> UNDEFINED
+    '\ufffe'    #  0x90 -> UNDEFINED
+    '\ufffe'    #  0x91 -> UNDEFINED
+    '\ufffe'    #  0x92 -> UNDEFINED
+    '\ufffe'    #  0x93 -> UNDEFINED
+    '\ufffe'    #  0x94 -> UNDEFINED
+    '\ufffe'    #  0x95 -> UNDEFINED
+    '\ufffe'    #  0x96 -> UNDEFINED
+    '\ufffe'    #  0x97 -> UNDEFINED
+    '\ufffe'    #  0x98 -> UNDEFINED
+    '\ufffe'    #  0x99 -> UNDEFINED
+    '\ufffe'    #  0x9A -> UNDEFINED
+    '\ufffe'    #  0x9B -> UNDEFINED
+    '\ufffe'    #  0x9C -> UNDEFINED
+    '\ufffe'    #  0x9D -> UNDEFINED
+    '\ufffe'    #  0x9E -> UNDEFINED
+    '\ufffe'    #  0x9F -> UNDEFINED
+    '\ufffe'    #  0xA0 -> UNDEFINED
+    '\ufffe'    #  0xA1 -> UNDEFINED
+    '\ufffe'    #  0xA2 -> UNDEFINED
+    '\ufffe'    #  0xA3 -> UNDEFINED
+    '\ufffe'    #  0xA4 -> UNDEFINED
+    '\ufffe'    #  0xA5 -> UNDEFINED
+    '\ufffe'    #  0xA6 -> UNDEFINED
+    '\ufffe'    #  0xA7 -> UNDEFINED
+    '\ufffe'    #  0xA8 -> UNDEFINED
+    '\ufffe'    #  0xA9 -> UNDEFINED
+    '\ufffe'    #  0xAA -> UNDEFINED
+    '\ufffe'    #  0xAB -> UNDEFINED
+    '\ufffe'    #  0xAC -> UNDEFINED
+    '\ufffe'    #  0xAD -> UNDEFINED
+    '\ufffe'    #  0xAE -> UNDEFINED
+    '\ufffe'    #  0xAF -> UNDEFINED
+    '\ufffe'    #  0xB0 -> UNDEFINED
+    '\ufffe'    #  0xB1 -> UNDEFINED
+    '\ufffe'    #  0xB2 -> UNDEFINED
+    '\ufffe'    #  0xB3 -> UNDEFINED
+    '\ufffe'    #  0xB4 -> UNDEFINED
+    '\ufffe'    #  0xB5 -> UNDEFINED
+    '\ufffe'    #  0xB6 -> UNDEFINED
+    '\ufffe'    #  0xB7 -> UNDEFINED
+    '\ufffe'    #  0xB8 -> UNDEFINED
+    '\ufffe'    #  0xB9 -> UNDEFINED
+    '\ufffe'    #  0xBA -> UNDEFINED
+    '\ufffe'    #  0xBB -> UNDEFINED
+    '\ufffe'    #  0xBC -> UNDEFINED
+    '\ufffe'    #  0xBD -> UNDEFINED
+    '\ufffe'    #  0xBE -> UNDEFINED
+    '\ufffe'    #  0xBF -> UNDEFINED
+    '\ufffe'    #  0xC0 -> UNDEFINED
+    '\ufffe'    #  0xC1 -> UNDEFINED
+    '\ufffe'    #  0xC2 -> UNDEFINED
+    '\ufffe'    #  0xC3 -> UNDEFINED
+    '\ufffe'    #  0xC4 -> UNDEFINED
+    '\ufffe'    #  0xC5 -> UNDEFINED
+    '\ufffe'    #  0xC6 -> UNDEFINED
+    '\ufffe'    #  0xC7 -> UNDEFINED
+    '\ufffe'    #  0xC8 -> UNDEFINED
+    '\ufffe'    #  0xC9 -> UNDEFINED
+    '\ufffe'    #  0xCA -> UNDEFINED
+    '\ufffe'    #  0xCB -> UNDEFINED
+    '\ufffe'    #  0xCC -> UNDEFINED
+    '\ufffe'    #  0xCD -> UNDEFINED
+    '\ufffe'    #  0xCE -> UNDEFINED
+    '\ufffe'    #  0xCF -> UNDEFINED
+    '\ufffe'    #  0xD0 -> UNDEFINED
+    '\ufffe'    #  0xD1 -> UNDEFINED
+    '\ufffe'    #  0xD2 -> UNDEFINED
+    '\ufffe'    #  0xD3 -> UNDEFINED
+    '\ufffe'    #  0xD4 -> UNDEFINED
+    '\ufffe'    #  0xD5 -> UNDEFINED
+    '\ufffe'    #  0xD6 -> UNDEFINED
+    '\ufffe'    #  0xD7 -> UNDEFINED
+    '\ufffe'    #  0xD8 -> UNDEFINED
+    '\ufffe'    #  0xD9 -> UNDEFINED
+    '\ufffe'    #  0xDA -> UNDEFINED
+    '\ufffe'    #  0xDB -> UNDEFINED
+    '\ufffe'    #  0xDC -> UNDEFINED
+    '\ufffe'    #  0xDD -> UNDEFINED
+    '\ufffe'    #  0xDE -> UNDEFINED
+    '\ufffe'    #  0xDF -> UNDEFINED
+    '\ufffe'    #  0xE0 -> UNDEFINED
+    '\ufffe'    #  0xE1 -> UNDEFINED
+    '\ufffe'    #  0xE2 -> UNDEFINED
+    '\ufffe'    #  0xE3 -> UNDEFINED
+    '\ufffe'    #  0xE4 -> UNDEFINED
+    '\ufffe'    #  0xE5 -> UNDEFINED
+    '\ufffe'    #  0xE6 -> UNDEFINED
+    '\ufffe'    #  0xE7 -> UNDEFINED
+    '\ufffe'    #  0xE8 -> UNDEFINED
+    '\ufffe'    #  0xE9 -> UNDEFINED
+    '\ufffe'    #  0xEA -> UNDEFINED
+    '\ufffe'    #  0xEB -> UNDEFINED
+    '\ufffe'    #  0xEC -> UNDEFINED
+    '\ufffe'    #  0xED -> UNDEFINED
+    '\ufffe'    #  0xEE -> UNDEFINED
+    '\ufffe'    #  0xEF -> UNDEFINED
+    '\ufffe'    #  0xF0 -> UNDEFINED
+    '\ufffe'    #  0xF1 -> UNDEFINED
+    '\ufffe'    #  0xF2 -> UNDEFINED
+    '\ufffe'    #  0xF3 -> UNDEFINED
+    '\ufffe'    #  0xF4 -> UNDEFINED
+    '\ufffe'    #  0xF5 -> UNDEFINED
+    '\ufffe'    #  0xF6 -> UNDEFINED
+    '\ufffe'    #  0xF7 -> UNDEFINED
+    '\ufffe'    #  0xF8 -> UNDEFINED
+    '\ufffe'    #  0xF9 -> UNDEFINED
+    '\ufffe'    #  0xFA -> UNDEFINED
+    '\ufffe'    #  0xFB -> UNDEFINED
+    '\ufffe'    #  0xFC -> UNDEFINED
+    '\ufffe'    #  0xFD -> UNDEFINED
+    '\ufffe'    #  0xFE -> UNDEFINED
+    '\ufffe'    #  0xFF -> UNDEFINED
 )
 
 ### Encoding table
