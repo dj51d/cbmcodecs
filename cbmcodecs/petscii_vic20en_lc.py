@@ -142,7 +142,7 @@ decoding_table = (
     ']'         #  0x5D -> RIGHT SQUARE BRACKET
     '\u2191'    #  0x5E -> UPWARDS ARROW
     '\u2190'    #  0x5F -> LEFTWARDS ARROW
-    '\u2501'    #  0x60 -> BOX DRAWINGS LIGHT HORIZONTAL
+    '\u2500'    #  0x60 -> BOX DRAWINGS LIGHT HORIZONTAL
     'A'         #  0x61 -> LATIN CAPITAL LETTER A
     'B'         #  0x62 -> LATIN CAPITAL LETTER B
     'C'         #  0x63 -> LATIN CAPITAL LETTER C
@@ -238,7 +238,7 @@ decoding_table = (
     '\u2518'    #  0xBD -> BOX DRAWINGS LIGHT UP AND LEFT
     '\uf137'    #  0xBE -> BLACK SMALL SQUARE UPPER LEFT (CUS)
     '\uf138'    #  0xBF -> TWO SMALL BLACK SQUARES DIAGONAL LEFT TO RIGHT (CUS)
-    '\u2501'    #  0xC0 -> BOX DRAWINGS LIGHT HORIZONTAL
+    '\u2500'    #  0xC0 -> BOX DRAWINGS LIGHT HORIZONTAL
     'A'         #  0xC1 -> LATIN CAPITAL LETTER A
     'B'         #  0xC2 -> LATIN CAPITAL LETTER B
     'C'         #  0xC3 -> LATIN CAPITAL LETTER C
