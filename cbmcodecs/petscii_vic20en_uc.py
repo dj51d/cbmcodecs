@@ -1,8 +1,7 @@
-"""Python Character Mapping Codec petscii_vic20en_uc
+""" Python Character Mapping Codec petscii_vic20en_uc generated from 'mappings/petscii_vic20en_uc.txt' with gencodec.py.
 
-generated from 'petscii_vic20en_uc.txt' with gencodec.py.
+"""#"
 
-"""
 import codecs
 
 ### Codec APIs
@@ -306,3 +305,4 @@ decoding_table = (
 
 ### Encoding table
 encoding_table = codecs.charmap_build(decoding_table)
+
