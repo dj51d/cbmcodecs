@@ -62,3 +62,12 @@ License
 As with the original PETSCII to Unicode mapping files, the cbmcodecs package
 is Licensed under the GNU GPL Version 2, see the ``LICENSE.txt`` file for the
 full text.
+
+
+Unicode symbols used
+====================
+Aside from the regular alphanumerics and symbols, the unicode mapping uses the
+following unicode block drawing and other symbols to mimic many PETSCII characters:
+
+@todo
+
