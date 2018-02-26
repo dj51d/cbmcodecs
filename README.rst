@@ -34,14 +34,14 @@ with any of the encodings from the standard library::
     import cbmcodecs
 
 
-    with open('file.seq', encoding='pettscii-c64en-lc') as f:
+    with open('file.seq', encoding='petscii-c64en-lc') as f:
         for line in f:
             print(line)
 
 Python Version Note
 ===================
 
-Currently only Python 3 is supported(tested on 3.3.3). Support for Python 2.7
+Currently only Python 3 is supported (tested on 3.3.3). Support for Python 2.7
 may be added in the future, but supporting Python 2 isn't very high on my
 priority list.
 
