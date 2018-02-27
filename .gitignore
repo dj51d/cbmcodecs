@@ -5,3 +5,5 @@ __pycache__/
 .ropeproject
 
 *.swp
+dist/
+.idea/
