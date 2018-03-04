@@ -12,11 +12,11 @@ setup(
     name='cbmcodecs',
     description='Python codecs for PETSCII encodings',
     long_description=open('README.rst').read(),
-    author='Dan Johnson',       # @todo update?
-    author_email='dj51d@warbirdsurvivors.com',  # @todo update?
+    author='Dan Johnson',
+    author_email='dj51d@warbirdsurvivors.com',
     packages=['cbmcodecs'],
     license='GPLv2',
-    url='https://github.com/dj51d/cbmcodecs',  # @todo update?
+    url='https://github.com/dj51d/cbmcodecs',
     version=version,
     install_requires=[],
     test_suite="tests",
