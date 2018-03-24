@@ -15,7 +15,7 @@ The screencodes codec was created by hand later and borrows from them.
 Usage
 =====
 
-Currently there are 4 codecs defined for variations of the PETSCII encoding:
+Currently there are four codecs defined for variations of the PETSCII encoding:
 
 petscii-c64en-lc
     The English version of the Commodore 64 mixed-case character set
@@ -30,7 +30,7 @@ petscii-vic20en-uc
     The English version of the VIC-20 upper-case/graphics character set
 
 
-There are 4 codecs defined to handle the Screencode (POKE) encoding:
+There are two codecs defined to handle the Screencode (POKE) encoding:
 
 screencode-c64-lc
     Mixed-case mapping to screencodes (POKE) used by the Commodore 64 and Vic20
