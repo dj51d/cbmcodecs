@@ -19,6 +19,7 @@ setup(
     url='https://github.com/dj51d/cbmcodecs',
     version=version,
     install_requires=[],
+    test_suite="tests",
     classifiers=[
         'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
