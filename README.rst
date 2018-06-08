@@ -72,3 +72,11 @@ following unicode block drawing and other symbols to mimic a bunch of PETSCII ch
 £ π ✓ ← ↑ ─ │ ┌ ┐ └ ┘ ├ ┤ ┬ ┴ ┼ ╭ ╮ ╯ ╰
 ╱ ╲ ╳ ▁ ▂ ▃ ▄ ▌ ▍ ▎ ▏ ▒ ▔ ▕ ▖ ▗ ▘ ▚ ▝
 ○ ● ◤ ◥ ♠ ♣ ♥ ♦
+
+
+Credits
+=======
+
+Linus Walleij - Original C64 and VIC-20 mappings
+Dan Johnson - Translation of C64 & VIC-20 mappings to python codecs
+Irmen de Jong - Screencode mappings, bug fixes and unit tests.
