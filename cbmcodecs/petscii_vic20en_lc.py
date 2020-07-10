@@ -63,7 +63,7 @@ decoding_table = (
     '\ufffe'    #  0x0F -> UNDEFINED
     '\ufffe'    #  0x10 -> UNDEFINED
     '\uf11c'    #  0x11 -> CURSOR DOWN (CUS)
-    '\ufffe'    #  0x12 -> UNDEFINED
+    '\uf11a'    #  0x12 -> REVERSE VIDEO ON (CUS)
     '\uf120'    #  0x13 -> HOME (CUS)
     '\x7f'      #  0x14 -> DELETE
     '\ufffe'    #  0x15 -> UNDEFINED
@@ -191,7 +191,7 @@ decoding_table = (
     '\ufffe'    #  0x8F -> UNDEFINED
     '\uf105'    #  0x90 -> BLACK COLOR SWITCH (CUS)
     '\uf11e'    #  0x91 -> CURSOR UP (CUS)
-    '\ufffe'    #  0x92 -> UNDEFINED
+    '\uf11b'    #  0x92 -> REVERSE VIDEO OFF (CUS)
     '\x0c'      #  0x93 -> FORM FEED
     '\uf121'    #  0x94 -> INSERT (CUS)
     '\ufffe'    #  0x95 -> UNDEFINED
