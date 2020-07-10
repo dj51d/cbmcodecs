@@ -52,8 +52,6 @@ class TestVic20Codecs(unittest.TestCase):
             "π".encode(codec)
         with self.assertRaises(UnicodeEncodeError):
             "♥".encode(codec)
-        with self.assertRaises(UnicodeEncodeError):
-            "\uf11a".encode(codec)  # reversevid not supported on vic20
 
     def test_uppercase(self):
         codec = "petscii-vic20en-uc"
@@ -62,5 +60,3 @@ class TestVic20Codecs(unittest.TestCase):
         self.assertEqual(b"\xff", "π".encode(codec))
         with self.assertRaises(UnicodeEncodeError):
             "✓".encode(codec)
-        with self.assertRaises(UnicodeEncodeError):
-            "\uf11a".encode(codec)  # reversevid not supported on vic20
