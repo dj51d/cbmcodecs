@@ -24,16 +24,24 @@ from . import petscii_vic20en_uc
 from . import screencode_c64_lc
 from . import screencode_c64_uc
 
-__version__ = '0.2.1'
+__version__ = '0.2.2'
 __all__ = []
 
 petscii_codecs = {
+    # backwards compatibility encoding names:
     'petscii-c64en-lc': petscii_c64en_lc.getregentry(),
     'petscii-c64en-uc': petscii_c64en_uc.getregentry(),
     'petscii-vic20en-lc': petscii_vic20en_lc.getregentry(),
     'petscii-vic20en-uc': petscii_vic20en_uc.getregentry(),
     'screencode-c64-lc': screencode_c64_lc.getregentry(),
-    'screencode-c64-uc': screencode_c64_uc.getregentry()
+    'screencode-c64-uc': screencode_c64_uc.getregentry(),
+    # normalized encoding names since python 3.9:
+    'petscii_c64en_lc': petscii_c64en_lc.getregentry(),
+    'petscii_c64en_uc': petscii_c64en_uc.getregentry(),
+    'petscii_vic20en_lc': petscii_vic20en_lc.getregentry(),
+    'petscii_vic20en_uc': petscii_vic20en_uc.getregentry(),
+    'screencode_c64_lc': screencode_c64_lc.getregentry(),
+    'screencode_c64_uc': screencode_c64_uc.getregentry()
 }
 
 
