@@ -32,7 +32,7 @@ class StreamReader(Codec, codecs.StreamReader):
 
 def getregentry():
     return codecs.CodecInfo(
-        name='petscii-vic20en-uc',
+        name='petscii_vic20en_uc',
         encode=Codec().encode,
         decode=Codec().decode,
         incrementalencoder=IncrementalEncoder,

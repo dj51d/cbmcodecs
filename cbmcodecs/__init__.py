@@ -8,12 +8,12 @@ The screencode mappings were written by hand by Irmen de Jong.
 
 The following encodings are defined by this package:
 
-petscii-c64en-lc - Mixed-case mapping used by the Commodore 64
-petscii-c64en-uc - Upper-case/graphics mapping used by the Commodore 64
-petscii-vic20en-lc - Mixed-case mapping used by the Commodore VIC-20
-petscii-vic20en-uc - Upper-case/graphics mapping used by the VIC-20
-screencode-c64-lc - Mixed-case mapping to screencodes (POKE) used by the Commodore 64 and Vic20
-screencode-c64-uc - Upper-case/graphics mapping to screencodes (POKE) used by the Commodore 64 and Vic20
+petscii_c64en_lc - Mixed-case mapping used by the Commodore 64
+petscii_c64en_uc - Upper-case/graphics mapping used by the Commodore 64
+petscii_vic20en_lc - Mixed-case mapping used by the Commodore VIC-20
+petscii_vic20en_uc - Upper-case/graphics mapping used by the VIC-20
+screencode_c64_lc - Mixed-case mapping to screencodes (POKE) used by the Commodore 64 and Vic20
+screencode_c64_uc - Upper-case/graphics mapping to screencodes (POKE) used by the Commodore 64 and Vic20
 """
 import codecs
 
@@ -24,7 +24,7 @@ from . import petscii_vic20en_uc
 from . import screencode_c64_lc
 from . import screencode_c64_uc
 
-__version__ = '0.2.2'
+__version__ = '0.2.1'
 __all__ = []
 
 petscii_codecs = {

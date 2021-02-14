@@ -17,25 +17,25 @@ Usage
 
 Currently there are four codecs defined for variations of the PETSCII encoding:
 
-petscii-c64en-lc
+petscii_c64en_lc
     The English version of the Commodore 64 mixed-case character set
 
-petscii-c64en-uc
+petscii_c64en_uc
     The English version of the Commodore 64 upper-case/graphics character set
 
-petscii-vic20en-lc
+petscii_vic20en_lc
     The English version of the VIC-20 mixed-case character set
 
-petscii-vic20en-uc
+petscii_vic20en_uc
     The English version of the VIC-20 upper-case/graphics character set
 
 
 There are two codecs defined to handle the Screencode (POKE) encoding:
 
-screencode-c64-lc
+screencode_c64_lc
     Mixed-case mapping to screencodes (POKE) used by the Commodore 64 and Vic20
 
-screencode-c64-uc
+screencode_c64_uc
     Upper-case/graphics mapping to screencodes (POKE) used by the Commodore 64 and Vic20
 
 
@@ -45,7 +45,7 @@ with any of the encodings from the standard library::
     import cbmcodecs
 
 
-    with open('file.seq', encoding='petscii-c64en-lc') as f:
+    with open('file.seq', encoding='petscii_c64en_lc') as f:
         for line in f:
             print(line)
 
