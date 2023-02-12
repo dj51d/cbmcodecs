@@ -2,6 +2,12 @@
 cbmcodecs - Python encodings for handling PETSCII and C64 Screencode text.
 ==========================================================================
 
+This package is no longer maintained
+====================================
+
+As I no longer have the time or interest to maintain this package, it is recommended
+that you switch to Irmen de Jong's fork, https://github.com/irmen/cbmcodecs2
+
 Introduction
 ============
 
